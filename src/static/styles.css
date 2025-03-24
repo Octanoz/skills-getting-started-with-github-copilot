@@ -142,3 +142,14 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant-label {
+  display: inline-block;
+  margin: 2px 5px 2px 0;
+  padding: 5px 10px;
+  background-color: #e0f7fa;
+  color: #006064;
+  border: 1px solid #b2ebf2;
+  border-radius: 12px;
+  font-size: 14px;
+}
